@@ -7,8 +7,8 @@
 My repository contains the following files:
 
 * `README.md`: This README file.
-* `PDF_printout.pdf`: A PDF printout of my HackerRank submissions for the Python challenges.
-* `HW1.ipynb`: An IPYNB file containing the Python code for my solutions to the Python challenges.
+* `stamps.pdf`: A PDF printout of my HackerRank submissions for the Python challenges.
+* `scripts.ipynb`: An IPYNB file containing the Python code for my solutions to the Python challenges.
 * `Grades for Introduction to Cloud_ Semester 1 [60381].pdf`: A PDF of my Grades for Introduction to Cloud_ Semester 1 [60381].
 
 **Problem 1: Python challenges**
